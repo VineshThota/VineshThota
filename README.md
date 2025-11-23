@@ -34,7 +34,7 @@ I’ve worked across AI agent setups, automation pipelines, internal tools, and 
 
 ## 🌐 Let’s Connect
 
-If you’re building something meaningful — especially in AI or product — I’m always up for a conversation.
+If you’re building something meaningful, especially in AI or product, I’m always up for a conversation.
 
 Here’s the easiest place to reach me:  
 **https://www.linkedin.com/in/vinesh-thota/**
