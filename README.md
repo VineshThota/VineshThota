@@ -1,10 +1,10 @@
 # Hey, I’m Vinesh Thota 👋
 
-I didn’t start my career thinking I’d end up building AI-driven products. It happened gradually. One problem at a time, one messy workflow at a time, one team conversation at a time. Somewhere along the way, I realised I enjoy taking a tangled idea, stripping out the noise, and turning it into something a team can actually build and also turn around into revenue generating business.
+My career has been shaped by curiosity and that curiosity naturally pulled me into the world of AI-driven products. What started as solving small, messy problems slowly turned into a passion for untangling complex ideas and turning them into something real, useful, and buildable.
 
-That’s pretty much been the theme ever since.
+Along the way, I discovered how much I enjoy stripping away noise, bringing clarity to teams, and shaping concepts that can grow into revenue-generating products.
 
-I work in product, and my day usually looks like a mix of understanding what users really mean, translating chaos into structure, and working with engineering to get things shipped without unnecessary drama. The fun part isn’t the launch — it’s the moments when a team gets aligned and everything finally clicks.
+Today, I work in product, and my days are a mix of understanding what users actually need, bringing structure to chaos, and working closely with engineering to ship things with high motivation. The launch is great, but the real joy comes from that moment when a team aligns, the pieces fall into place, and the whole thing suddenly makes sense.
 
 ---
 
