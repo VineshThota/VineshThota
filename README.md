@@ -48,15 +48,15 @@ I maintain a portfolio of public repositories organized across multiple technolo
 ### 🤖 AI Agent Frameworks & Autonomous Systems
 Building practical AI agents that operate independently in real-world scenarios.
 
-- [Autonomous-Indoor-Navigation-System](https://github.com/VineshThota/Autonomous-Indoor-Navigation-System) - NaviBot AI with A* pathfinding, sensor simulation (LiDAR, camera, IMU), and real-time decision logging for GPS-denied environments
-- [AI-Monitoring-and-PredictiveAgent](https://github.com/VineshThota/AI-Monitoring-and-PredictiveAgent) - Industrial monitoring agents with continuous predictive analytics
-- [AI-predictive-maintenance-assistant](https://github.com/VineshThota/AI-predictive-maintenance-assistant) - Specialized agent for equipment failure prediction and maintenance optimization
-- [workflow-ai-assistant](https://github.com/VineshThota/workflow-ai-assistant) - Autonomous workflow orchestration and intelligent process handling
-- [ai-workflow-assistant](https://github.com/VineshThota/ai-workflow-assistant) - Task automation with adaptive decision-making
-- [ai-workflow-transition-assistant](https://github.com/VineshThota/ai-workflow-transition-assistant) - Complex workflow state management and transitions
-- [AI-Agent-with-advanced-RAG](https://github.com/VineshThota/AI-Agent-with-advanced-RAG) - Advanced RAG patterns integrated with agentic systems
-- [naviagent](https://github.com/VineshThota/naviagent) - Navigation-focused autonomous agent systems
-- [remote-team-rag-assistant](https://github.com/VineshThota/remote-team-rag-assistant) - Team collaboration and knowledge management through RAG
+- [AutonomousNavigation-IndoorPositioning-Framework](https://github.com/VineshThota/Autonomous-Indoor-Navigation-System) - Autonomous indoor robot navigation without GPS
+- [Equipment-HealthMonitoring-PredictiveAgent](https://github.com/VineshThota/AI-Monitoring-and-PredictiveAgent) - Monitor equipment health, predict failures
+- [Maintenance-FailurePrediction-AutonomousAgent](https://github.com/VineshThota/AI-predictive-maintenance-assistant) - Predict maintenance needs autonomously
+- [WorkflowProcess-AutomationOrchestrator](https://github.com/VineshThota/workflow-ai-assistant) - Orchestrate workflow automation
+- [Workflow-IntelligentExecution-Agent](https://github.com/VineshThota/ai-workflow-assistant) - Execute workflows intelligently
+- [WorkflowState-TransitionManagement-Controller](https://github.com/VineshThota/ai-workflow-transition-assistant) - Manage workflow state transitions
+- [IntelligenceSystem-AdvancedRAG-SemanticOrchestrator](https://github.com/VineshThota/AI-Agent-with-advanced-RAG) - Semantic intelligence with RAG
+- [Navigation-AutonomousExecution-Engine](https://github.com/VineshThota/naviagent) - Navigate autonomously
+- [TeamCollaboration-Knowledge-IntelligenceNetwork](https://github.com/VineshThota/remote-team-rag-assistant) - Connect team knowledge intelligently
 
 **Business Value**: Reduces manual intervention by 70-80%, enables 24/7 autonomous operations, improves decision consistency through AI.
 
@@ -65,16 +65,16 @@ Building practical AI agents that operate independently in real-world scenarios.
 ### 🏭 Predictive Maintenance & Industrial IoT
 ML-powered solutions preventing unplanned downtime and optimizing manufacturing operations.
 
-- [smart_industrial_maintenance](https://github.com/VineshThota/smart_industrial_maintenance) - Convergence of IoT + AI + Physical AI robotics for next-gen maintenance
-- [predictive_maintenance_ai](https://github.com/VineshThota/predictive_maintenance_ai) - ML models for equipment failure prediction
-- [digital_twin_predictive_maintenance](https://github.com/VineshThota/digital_twin_predictive_maintenance) - Digital twin architecture for real-time equipment monitoring
-- [autonomous_predictive_maintenance](https://github.com/VineshThota/autonomous_predictive_maintenance) - Autonomous systems for automated maintenance execution
-- [smart_manufacturing_qc](https://github.com/VineshThota/smart_manufacturing_qc) - AI-powered quality control for manufacturing
-- [smart_industrial_inspector](https://github.com/VineshThota/smart_industrial_inspector) - Computer vision-based factory floor inspection
-- [smart_maintenance_ai](https://github.com/VineshThota/smart_maintenance_ai) - ML-driven maintenance scheduling and optimization
-- [smart_indoor_nav_rag](https://github.com/VineshThota/smart_indoor_nav_rag) - RAG-enhanced indoor navigation for maintenance teams
-- [predictive_maintenance_app](https://github.com/VineshThota/predictive_maintenance_app) - Full-stack predictive maintenance application
-- [smart_factory_digital_twin](https://github.com/VineshThota/smart_factory_digital_twin) - Manufacturing digital twin for real-time simulation
+- [IndustrialAssets-HealthMonitoring-PredictiveSystem](https://github.com/VineshThota/smart_industrial_maintenance) - Predict industrial asset failures
+- [Equipment-FailureDetection-PredictiveIntelligence](https://github.com/VineshThota/predictive_maintenance_ai) - Detect equipment failures
+- [Manufacturing-DigitalTwin-RealTimeSimulation](https://github.com/VineshThota/digital_twin_predictive_maintenance) - Digital manufacturing simulation
+- [Maintenance-AutonomousExecution-PredictiveFramework](https://github.com/VineshThota/autonomous_predictive_maintenance) - Execute maintenance autonomously
+- [Manufacturing-QualityControl-AutonomousInspection](https://github.com/VineshThota/smart_manufacturing_qc) - Autonomous quality control
+- [Factory-VisualInspection-ComputerVisionSystem](https://github.com/VineshThota/smart_industrial_inspector) - Computer vision inspection
+- [MaintenanceOperations-IntelligenceOptimization-Agent](https://github.com/VineshThota/smart_maintenance_ai) - Optimize maintenance operations
+- [Logistics-IntelligentNavigation-KnowledgeBase](https://github.com/VineshThota/smart_indoor_nav_rag) - Navigate logistics with knowledge
+- [Maintenance-CommandCenter-OperationalIntelligence](https://github.com/VineshThota/predictive_maintenance_app) - Central maintenance operations control
+- [Manufacturing-DigitalReplication-RealtimeMonitoring](https://github.com/VineshThota/smart_factory_digital_twin) - Real-time factory monitoring
 
 **Business Value**: Unplanned downtime costs $1.4T annually. These systems reduce failure rates by 60-80%, optimize maintenance schedules, prevent catastrophic equipment failures.
 
@@ -83,11 +83,11 @@ ML-powered solutions preventing unplanned downtime and optimizing manufacturing 
 ### 👁️ Computer Vision & Quality Intelligence
 Visual AI powering inspection, quality control, and defect detection at scale.
 
-- [AI-Vision-Quality-Agent](https://github.com/VineshThota/AI-Vision-Quality-Agent) - Computer vision for multi-dimensional quality assessment
-- [Visual-Parts-Inspection-Agent](https://github.com/VineshThota/Visual-Parts-Inspection-Agent) - Automated defect detection on manufacturing components
-- [AI-quality-inspector](https://github.com/VineshThota/AI-quality-inspector) - Multi-criteria quality assurance automation
-- [elderly_health_monitor](https://github.com/VineshThota/elderly_health_monitor) - Health monitoring systems with vision-based analysis
-- [Maps-with-Voice-AI](https://github.com/VineshThota/Maps-with-Voice-AI) - Voice-driven navigation with visual context understanding
+- [QualityControl-ComputerVision-AutonomousAgent](https://github.com/VineshThota/AI-Vision-Quality-Agent) - Autonomous quality control with vision
+- [ComponentInspection-VisionAnalysis-DefectDetection](https://github.com/VineshThota/Visual-Parts-Inspection-Agent) - Detect component defects visually
+- [Production-QualityMonitoring-VisionIntelligence](https://github.com/VineshThota/AI-quality-inspector) - Monitor production quality
+- [HealthMonitoring-ElderlyWellness-ContinuousObservation](https://github.com/VineshThota/elderly_health_monitor) - Monitor elderly health continuously
+- [Navigation-VoiceInterface-LocationIntelligence](https://github.com/VineshThota/Maps-with-Voice-AI) - Voice-controlled navigation
 
 **Business Value**: Eliminates manual inspection errors, scales quality control without proportional hiring, achieves 99%+ consistency.
 
@@ -96,14 +96,14 @@ Visual AI powering inspection, quality control, and defect detection at scale.
 ### 📊 Enterprise Automation & Knowledge Systems
 End-to-end automation addressing enterprise workflows and intelligent knowledge management.
 
-- [AI-Document-Workflow-Automator](https://github.com/VineshThota/AI-Document-Workflow-Automator) - Intelligent document processing, routing, and categorization
-- [AI-Powered-Expense-Management-with-Computer-Vision](https://github.com/VineshThota/AI-Powered-Expense-Management-with-Computer-Vision) - Receipt scanning and automated expense categorization
-- [EmailFlow-AI-Intelligent-Email-Management](https://github.com/VineshThota/EmailFlow-AI-Intelligent-Email-Management) - Smart email organization and priority detection
-- [Finance-Copilot](https://github.com/VineshThota/Finance-Copilot) - Financial analysis and AI-powered decision support
-- [Inbox-AI-assistant](https://github.com/VineshThota/Inbox-AI-assistant) - Intelligent inbox management with context awareness
-- [employee-advocacy-rag-generator](https://github.com/VineshThota/employee-advocacy-rag-generator) - Internal knowledge base and employee enablement
-- [PersonalKnowledgeRAG](https://github.com/VineshThota/PersonalKnowledgeRAG) - Personal knowledge base using retrieval-augmented generation
-- [AI-Powered-Data-Quality-Assistant](https://github.com/VineshThota/AI-Powered-Data-Quality-Assistant) - Data validation and quality monitoring systems
+- [DocumentProcessing-WorkflowAutomation-IntelligentRouting](https://github.com/VineshThota/AI-Document-Workflow-Automator) - Automate document workflows
+- [ExpenseManagement-ReceiptIntelligence-ComputerVision](https://github.com/VineshThota/AI-Powered-Expense-Management-with-Computer-Vision) - Manage expenses via receipt vision
+- [EmailManagement-SmartOrganization-PriorityIntelligence](https://github.com/VineshThota/EmailFlow-AI-Intelligent-Email-Management) - Organize email intelligently
+- [FinancialOperations-DecisionSupport-IntelligentAdvisor](https://github.com/VineshThota/Finance-Copilot) - Financial decision intelligence
+- [InboxManagement-ContentIntelligence-AutomatedOrganization](https://github.com/VineshThota/Inbox-AI-assistant) - Organize inbox intelligently
+- [EmployeeAdvocacy-KnowledgeAmplification-ContentGenerator](https://github.com/VineshThota/employee-advocacy-rag-generator) - Amplify employee advocacy
+- [PersonalIntelligence-KnowledgeStorage-SemanticRetrieval](https://github.com/VineshThota/PersonalKnowledgeRAG) - Personal knowledge management
+- [DataQuality-IntegrityMonitoring-ValidationIntelligence](https://github.com/VineshThota/AI-Powered-Data-Quality-Assistant) - Monitor data quality
 
 **Business Value**: Reduces manual data entry by 80%, automates 60% of administrative workflows, accelerates decision-making.
 
@@ -112,9 +112,9 @@ End-to-end automation addressing enterprise workflows and intelligent knowledge 
 ### 🎯 Autonomous Navigation & Robotics
 Real-world robotics and autonomous systems solving GPS-denied navigation challenges.
 
-- [Autonomous-Indoor-Navigation-System](https://github.com/VineshThota/Autonomous-Indoor-Navigation-System) - NaviBot AI for indoor robot navigation without GPS
-- [personalnav-ai](https://github.com/VineshThota/personalnav-ai) - Personalized navigation with adaptive routing
-- [smart_indoor_nav_rag](https://github.com/VineshThota/smart_indoor_nav_rag) - Knowledge-enhanced indoor navigation
+- [AutonomousNavigation-IndoorPositioning-Framework](https://github.com/VineshThota/Autonomous-Indoor-Navigation-System) - NaviBot AI for indoor robot navigation without GPS
+- [Navigation-PersonalContext-AdaptiveRouting](https://github.com/VineshThota/personalnav-ai) - Adaptive personal navigation
+- [Logistics-IntelligentNavigation-KnowledgeBase](https://github.com/VineshThota/smart_indoor_nav_rag) - Knowledge-enhanced indoor navigation
 
 **Business Value**: Enables autonomous robots in warehouses, hospitals, and large facilities; solves critical GPS-denied navigation problem.
 
@@ -123,11 +123,11 @@ Real-world robotics and autonomous systems solving GPS-denied navigation challen
 ### 🏗️ Infrastructure & Foundational Systems
 Reusable frameworks, patterns, and tools accelerating development across projects.
 
-- [smartflow-ai](https://github.com/VineshThota/smartflow-ai) - Workflow execution framework
-- [agents.md](https://github.com/VineshThota/agents.md) - Contributing to open format for agentic systems
-- [templates](https://github.com/VineshThota/templates) - Reusable component templates and patterns
-- [Advanced-AI--Copilot-Roadmap-and-Execution](https://github.com/VineshThota/Advanced-AI--Copilot-Roadmap-and-Execution) - Strategic planning and execution copilot
-- [AI-Meeting-Wellness-Assistant](https://github.com/VineshThota/AI-Meeting-Wellness-Assistant) - Team productivity and meeting optimization
+- [WorkflowExecution-ProcessOrchestration-CoreFramework](https://github.com/VineshThota/smartflow-ai) - Core workflow execution
+- [AgentDevelopment-SpecificationFramework-StandardFormat](https://github.com/VineshThota/agents.md) - Agent development standards
+- [CodeTemplates-ArchitectureBlueprints-ReusablePatterns](https://github.com/VineshThota/templates) - Reusable architecture patterns
+- [StrategicPlanning-RoadmapExecution-IntelligentOrchestration](https://github.com/VineshThota/Advanced-AI--Copilot-Roadmap-and-Execution) - Strategic planning execution
+- [MeetingOptimization-ProductivityIntelligence-ParticipantWellness](https://github.com/VineshThota/AI-Meeting-Wellness-Assistant) - Optimize meetings
 
 **Business Value**: Accelerates development velocity, reduces technical debt, shares reusable knowledge.
 
