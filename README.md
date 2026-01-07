@@ -1,6 +1,6 @@
 # Hey, I'm Vinesh Thota 👋
 
-**Head of AI • Product Manager • AI Agent & System Architect**
+**Head of AI • Product Manager • Autonomous and Physical AI**
 
 ---
 
